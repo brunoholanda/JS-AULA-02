@@ -1,0 +1,22 @@
+Na industria para producao de pecas se utiliza de um molde para fazer varias pecas iguais.
+
+No js tambem e possivel criar um Molde para evitar repeticao de codigos, conforme primeira atividade deste curso.
+
+PROPOSTA PARA PROTEGER UMA VARIAVEL
+https://github.com/tc39/proposal-class-fields#private-fields
+
+
+!!ATENCAO!! 
+
+SE VOCE VER UM ATRIBUTO QUE COMECE COM UNDERLINE _
+NAO MEXA, POIS E UM ATRIBUTO PRIVADO.
+
+
+Em js toda vez que eu inicio o nome de um arquivo com letra maiuscula significa que eu estou criando uma classe
+
+USE npm init para criar um arquivo .json
+
+GERENCIAMENTO DE MEMORIA NO JS
+https://medium.com/reactbrasil/como-o-javascript-funciona-gerenciamento-de-mem%C3%B3ria-como-lidar-com-4-vazamentos-comuns-de-5cfa341b9e39
+
+null geralmente e intencional

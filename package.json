@@ -1,0 +1,15 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank aula js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bruno"
+  ],
+  "author": "Bruno",
+  "license": "ISC",
+  "type": "module"
+}
